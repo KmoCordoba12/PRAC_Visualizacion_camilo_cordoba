@@ -1,8 +1,8 @@
 # PRAC_Visualizacion_camilo_cordoba
-Datos y preparacion de los mismos para la creacion del dashboard publicado en Tableau Public: 
+Datos y preparacion de los mismos para la creacion del dashboard publicado en Tableau Public: https://public.tableau.com/views/Climatechangeandenergy/Analysis?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ---
-Data and its preparation for the creation of the dashboard published on Tableau Public:
+Data and its preparation for the creation of the dashboard published on Tableau Public: https://public.tableau.com/views/Climatechangeandenergy/Analysis?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ## Archivos
 
